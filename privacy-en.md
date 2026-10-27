@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Privacy Policy (タスクボード — ロック画面で見えるToDo)
+title: Privacy Policy (タスクボード — ロック画面とホーム画面で見えるToDo)
 ---
 
-# Privacy Policy (タスクボード — ロック画面で見えるToDo)
+# Privacy Policy (タスクボード — ロック画面とホーム画面で見えるToDo)
 
 **Last updated: October 28, 2026**  
 **Operator: Trierr** (Japanese reading: トリエラ / Toriera)  
 The App is operated by an individual. Trierr is the operator's trade name / brand name.
 
-This policy explains how information is handled in the Android app “タスクボード — ロック画面で見えるToDo” (meaning “Task Board — ToDos visible on your lock screen”; the “App”). The App may appear as “タスクボード” or “Task Board” within the App or on your device.
+This policy explains how information is handled in the Android app “タスクボード — ロック画面とホーム画面で見えるToDo” (meaning “Task Board — ToDos visible on your lock and home screens”; the “App”). The App may appear as “タスクボード” or “Task Board” within the App or on your device.
 
 ## 1. About the App
 
@@ -27,7 +27,7 @@ The App stores and uses the following information on your device to provide its 
 | Completion status and times, progress percentages, and tracking method | Displaying completion, progress, and completion rates |
 | Recurrence settings and series identifiers | Creating the next daily or weekly task and avoiding duplicate entries |
 | Setting to keep completed tasks on the home tab | Controlling completed-task visibility on the home tab and wallpaper |
-| Wallpaper position, dimensions, font size, destination, application status, and update comparison data | Previewing, applying, and automatically updating wallpaper |
+| Wallpaper position, dimensions, font size, destination, application status, automatic update pause setting, and update comparison data | Managing wallpaper previews, application, and automatic updates |
 | Task data for widget and wallpaper display | Displaying and updating task titles, categories, deadlines, progress, and related information |
 
 The App also uses your device language to select its display language, and manufacturer, brand, and installer information to show device-specific guidance. It has no feature that sends this information to the operator's servers.
@@ -35,6 +35,10 @@ The App also uses your device language to select its display language, and manuf
 The App does not explicitly disable Android automatic backup. Depending on the device, OS, and your settings, saved app data may be included in OS backups or device-to-device transfers. These are managed by the OS or backup service provider and are separate from cloud storage operated by the operator.
 
 ### Wallpaper and widget visibility
+
+Depending on your chosen destination, the App changes only the lock screen wallpaper or both the home and lock screen wallpapers. On some devices, including Fire tablets, applying wallpaper to both screens may be necessary for it to appear on the lock screen.
+
+Turning on “Pause automatic wallpaper updates” in Settings stops automatic wallpaper updates from task changes, device restarts, app updates, language changes, and similar events. Pausing or resuming does not change your current wallpaper or restore a previous wallpaper. You can still apply wallpaper manually while paused; doing so keeps automatic updates paused. Widgets continue updating regardless of this setting.
 
 Wallpaper and widgets display information such as task titles, categories, deadlines, recurrence dates, and progress. When the setting to keep completed tasks on the home tab is enabled, completed tasks also appear on the wallpaper with strikethrough formatting. Note contents are not displayed on wallpaper or widgets.
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: タスクボード — ロック画面で見えるToDo · Privacy
+title: タスクボード — ロック画面とホーム画面で見えるToDo · Privacy
 permalink: /
 ---
 
-# タスクボード — ロック画面で見えるToDo
+# タスクボード — ロック画面とホーム画面で見えるToDo
 
-Task Board — ToDos visible on your lock screen
+Task Board — ToDos visible on your lock and home screens
 
 プライバシーポリシー / Privacy Policy
 

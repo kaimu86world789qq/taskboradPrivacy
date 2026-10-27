@@ -1,6 +1,6 @@
 # GitHub Pages (Jekyll). Publish this folder's contents at the repository root.
 theme: minima
-title: "タスクボード — ロック画面で見えるToDo · Privacy"
-description: "タスクボード — ロック画面で見えるToDo / Task Board · Privacy policies · Trierr"
+title: "タスクボード — ロック画面とホーム画面で見えるToDo · Privacy"
+description: "タスクボード — ロック画面とホーム画面で見えるToDo / Task Board · Privacy policies · Trierr"
 header_pages:
   - index.md
